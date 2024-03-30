@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 930177fee370d414ab17420d3e353a13
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _WoodFloor051_2KPNG_NormalGL: {fileID: 2800000, guid: 1d9eba1b04f09df4aa4c9c63f7077256,
+      type: 3}
+  - _Albedo: {fileID: 2800000, guid: 6665a7c8446101a41adbe7ccb93d1fdb, type: 3}
+  - _WoodFloor051_2KPNG_Roughness: {fileID: 2800000, guid: 8cf4a064e5769c948919e9a2c54148af,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
